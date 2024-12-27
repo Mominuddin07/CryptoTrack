@@ -1,70 +1,139 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <img alt="project" title="#About" src="./assets/banner.jpg" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  <a href="#"> CryptoTracker</a>
+</h1>
 
-## Available Scripts
+<h3 align="center"></h3>
 
-In the project directory, you can run:
+<p align="center">
 
-### `npm start`
+  <img alt="Stars" src="https://img.shields.io/github/stars/Mominuddin07/CryptoTracker?style=social">
+  
+  <a href="https://github.com/Mominuddin07/CryptoTracker">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Mominuddin07/CryptoTracker">
+  </a>
+    
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <a href="https://github.com/Mominuddin07/">
+    <img alt="made by Mohammed Mominuddin" src="https://img.shields.io/badge/made%20by-Mohammed%20Mominuddin-ff69b4">
+  </a>
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h4 align="center"> 
+	 Status: Finished
+</h4>
 
-### `npm test`
+<p align="center">
+ <a href="#about">About</a> •
+ <a href="#features">Features</a> •
+ <a href="#how-it-works">How it works</a> • 
+ <a href="#tech-stack">Tech Stack</a> •  
+ <a href="#author">Author</a> • 
+ <a href="#user-content-license">License</a>
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## About
 
-### `npm run build`
+PROJECT - Crypto Tracker is a React-based web application designed to display real-time cryptocurrency prices. Using the CoinGecko API, it provides users with up-to-date market data, trending coins.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [x] Pagination and search functionality for coins
+- [x] Mobile responsive design
+- [x] Real-time cryptocurrency prices and trends
+- [x] View detailed coin information
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## How it works
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Frontend** (this repository): Built using React, Material UI, and Axios to fetch data from the CoinGecko API.
+2. **Backend** (external or API service): Serves real-time cryptocurrency data (e.g., CoinGecko API).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Pre-requisites
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Before you begin, make sure you have the following tools installed on your machine:
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org/en/)
+- [VSCode](https://code.visualstudio.com/) (or any code editor)
+
+#### Running the web application (Frontend)
+
+```bash
+# Clone this repository
+$ git clone git@github.com:Mominuddin07/CryptoTracker.git
+
+# Navigate to the project folder
+$ cd CryptoTracker
+
+# Install dependencies
+$ npm install
+
+# Start the application
+$ npm start
+
+# The application will run on http://localhost:3000
+
+```
+
+---
+
+## Tech Stack
+
+The following tools were used in the construction of the project:
+
+#### **Platform** ([React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
+
+- **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
+- **[React Icons](https://react-icons.github.io/react-icons/)**
+- **[Axios](https://github.com/axios/axios)**
+- **[React Redux](https://github.com/reduxjs/react-redux)**
+- **[react-device-detect](https://github.com/duskload/react-device-detect)**
+- **[Styled Components](https://github.com/styled-components/styled-components)**
+
+> See the file [package.json](https://github.com/evelinsteiger/README-template/blob/master/package.json)
+
+#### **Utils**
+
+- **API**: [CoinGecko API](https://www.coingecko.com/en/api) → Provides real-time cryptocurrency data including prices, market trends, and more.
+- **Maps**: [Leaflet](https://react-leaflet.js.org/en/) → A library for interactive maps.
+- **Editor**: [Visual Studio Code](https://code.visualstudio.com/) → A code editor used for writing and debugging the application.
+- **Icons**: [React Icons](https://react-icons.github.io/react-icons/) → A collection of customizable icons for React.
+- **Fonts**: [Montserrat](https://fonts.google.com/specimen/Montserrat) → Font used in the app for modern, clean typography.
+
+
+---
+
+## Author
+
+<a href="https://www.linkedin.com/in/mohammed-mominuddin-350180259/">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFY3bB4gWUEVw/profile-displayphoto-shrink_200_200/0/1638286563108?e=1651708800&v=beta&t=WQhkU4GF5vPmHiAb788WkvXJaXnyKhYz5oarqqcfGBA" width="70px;" alt="Mohammed Mominuddin"/>
+ <br />
+ <p><b>Mohammed Mominuddin</b></p></a>
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Mohammed%20Mominuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-mominuddin-350180259/)](https://www.linkedin.com/in/mohammed-mominuddin-350180259/)
+
+
+---
+
+## License
+
+This project is under the license [MIT](./LICENSE).
+
+Made with love by Mohammed Mominuddin 👋🏽 [Get in Touch!](https://www.linkedin.com/in/mohammed-mominuddin-350180259/)
+
+---
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project was created using Create React App.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+For more information about Create React App, refer to the official documentation.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+You can also learn more about React in the React documentation.
