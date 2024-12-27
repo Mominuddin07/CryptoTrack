@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img alt="project" title="#About" src="./assets/banner.jpg" />
+    <img alt="project" title="#About" src="/banner cryptotracker.png" />
 </h1>
+
 
 <h1 align="center">
   <a href="#"> CryptoTracker</a>
@@ -11,17 +12,18 @@
 <p align="center">
 
   <img alt="Stars" src="https://img.shields.io/github/stars/Mominuddin07/CryptoTracker?style=social">
-  
+
   <a href="https://github.com/Mominuddin07/CryptoTracker">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Mominuddin07/CryptoTracker">
   </a>
-    
+
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
   <a href="https://github.com/Mominuddin07/">
     <img alt="made by Mohammed Mominuddin" src="https://img.shields.io/badge/made%20by-Mohammed%20Mominuddin-ff69b4">
   </a>
 </p>
+
 
 <h4 align="center"> 
 	 Status: Finished
@@ -88,7 +90,7 @@ $ npm start
 
 The following tools were used in the construction of the project:
 
-#### **Platform** ([React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
+#### **Platform** ([React](https://reactjs.org/)
 
 - **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 - **[React Icons](https://react-icons.github.io/react-icons/)**
@@ -97,16 +99,13 @@ The following tools were used in the construction of the project:
 - **[react-device-detect](https://github.com/duskload/react-device-detect)**
 - **[Styled Components](https://github.com/styled-components/styled-components)**
 
-> See the file [package.json](https://github.com/evelinsteiger/README-template/blob/master/package.json)
 
 #### **Utils**
 
 - **API**: [CoinGecko API](https://www.coingecko.com/en/api) → Provides real-time cryptocurrency data including prices, market trends, and more.
-- **Maps**: [Leaflet](https://react-leaflet.js.org/en/) → A library for interactive maps.
 - **Editor**: [Visual Studio Code](https://code.visualstudio.com/) → A code editor used for writing and debugging the application.
 - **Icons**: [React Icons](https://react-icons.github.io/react-icons/) → A collection of customizable icons for React.
 - **Fonts**: [Montserrat](https://fonts.google.com/specimen/Montserrat) → Font used in the app for modern, clean typography.
-
 
 ---
 
