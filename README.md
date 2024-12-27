@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="project" title="#About" src="/bannercryptotracker.png" />
+    <img alt="project" title="#About" src="./public/bannercryptotracker.png" />
 </h1>
 
 
