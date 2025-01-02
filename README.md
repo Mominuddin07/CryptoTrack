@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-  <a href="#"> CryptoTracker</a>
+  <a href="https://cryptotrackercoins.netlify.app/"> CryptoTracker</a>
 </h1>
 
 <h3 align="center"></h3>
