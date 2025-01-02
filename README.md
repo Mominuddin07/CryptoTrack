@@ -11,7 +11,7 @@
 
 <p align="center">
 
-  <img alt="Stars" src="https://img.shields.io/github/stars/Mominuddin07/CryptoTracker?style=social">
+  <img alt="Stars" src="https://img.shields.io/github/stars/Mominuddin07/CryptoTrack?style=social">
 
   <a href="https://github.com/Mominuddin07/CryptoTracker">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Mominuddin07/CryptoTracker">
@@ -90,7 +90,7 @@ $ npm start
 
 The following tools were used in the construction of the project:
 
-#### **Platform** ([React](https://reactjs.org/)
+#### **Platform** 
 
 - **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 - **[React Icons](https://react-icons.github.io/react-icons/)**
