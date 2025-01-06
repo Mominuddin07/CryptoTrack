@@ -131,8 +131,8 @@ Made with love by Mohammed Mominuddin 👋🏽 [Get in Touch!](https://www.linke
 
 ## Learn More
 
-This project was created using Create React App.
+This project was created using React .
 
-For more information about Create React App, refer to the official documentation.
+For more information about React, refer to the official documentation.
 
 You can also learn more about React in the React documentation.
